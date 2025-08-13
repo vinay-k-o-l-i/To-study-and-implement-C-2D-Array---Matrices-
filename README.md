@@ -1,3 +1,9 @@
+Vinay Kholi
+
+24070123133
+
+ENTC B2
+
 # Matrix Operations in C++
 
 ## Overview
